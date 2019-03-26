@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="quiz_about_playing_football">quiz about playing football</string>
+    <string name="_1_choose_the_crroect_answer">1-choose the crroect answer</string>
+    <string name="i_who_win_the_world_cup_inv2010">i- who win the world cup inv2010 ?</string>
+    <string name="aspane">aspane</string>
+    <string name="france">france</string>
+    <string name="tanse">tanse</string>
+    <string name="ii_who_is_the_prefer_player">ii- who is the prefer player ?</string>
+    <string name="roban">Roban</string>
+    <string name="messi">messi</string>
+    <string name="salah">salah</string>
+    <string name="iii_who_train_france">iii- who train france?</string>
+    <string name="v_how_play_ahly_and_zamalek">v- how play ahly and zamalek ?</string>
+    <string name="_20">20</string>
+    <string name="_44">44</string>
+    <string name="_23">23</string>
+    <string name="vi_number_goals_of_classic">vi- number goals of classic?</string>
+    <string name="_45_goals">45 goals</string>
+    <string name="_100_goals">100 goals</string>
+    <string name="_120_goals">120 goals</string>
+    <string name="submit">submit</string>
+    <string name="good_lucky">good lucky</string>
+</resources>
